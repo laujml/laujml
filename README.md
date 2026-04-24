@@ -46,15 +46,10 @@
 
 ---
 
-### GitHub Stats
+### Lenguajes más usados
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=laujml&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laujml&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=laujml&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laujml&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -62,7 +57,7 @@
 ### Conectemos
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/laujml">
+  <a href="www.linkedin.com/in/laura-angel-02b43a172">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
 </p>
