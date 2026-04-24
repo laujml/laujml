@@ -45,6 +45,17 @@
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 
 ---
+### Proyectos destacados
+
+| Proyecto | Tipo | Tecnologías | Demo |
+|----------|------|-------------|------|
+| [Certificación Full Stack](https://github.com/laujml/proyecto-next) | Full Stack | Next.js · TypeScript · Vercel | [▶ Ver deploy](https://proyecto-next-beta.vercel.app/) |
+| [Sistema de Biblioteca](https://github.com/laujml/BibliotecaEjercicioPruebas) | Backend | Java · REST API · Postman | Sin deploy (API) |
+| [Ecommerce de Guitarras](https://github.com/laujml/guitarsG2) | Frontend | HTML · CSS · JavaScript | [▶ Ver deploy](https://guitarsecommerce.netlify.app/) |
+| [Naturally Stunning](https://github.com/laujml/NaturallyStunning) | Full Stack | HTML · CSS · JavaScript | [▶ Ver deploy](https://laujml.github.io/NaturallyStunning/) |
+| [Planificador de Gastos](https://github.com/laujml/practica4web2) | Full Stack | PHP · SQL · JavaScript | [▶ Ver deploy](https://lighthearted-sunshine-dedd3f.netlify.app/) |
+
+---
 
 ### Lenguajes más usados
 
