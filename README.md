@@ -5,10 +5,6 @@
   Fusionando tecnología con estrategia de negocios </em>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=laujml&color=blueviolet&style=flat-square" alt="Profile views"/>
-</p>
-
 ---
 
 ### Sobre mí
@@ -49,11 +45,11 @@
 
 | Proyecto | Tipo | Tecnologías | Demo |
 |----------|------|-------------|------|
-| [Certificación Full Stack](https://github.com/laujml/proyecto-next) | Full Stack | Next.js · TypeScript · Vercel | [▶ Ver deploy](https://proyecto-next-beta.vercel.app/) |
-| [Sistema de Biblioteca](https://github.com/laujml/BibliotecaEjercicioPruebas) | Backend | Java · REST API · Postman | Sin deploy (API) |
-| [Ecommerce de Guitarras](https://github.com/laujml/guitarsG2) | Frontend | HTML · CSS · JavaScript | [▶ Ver deploy](https://guitarsecommerce.netlify.app/) |
-| [Naturally Stunning](https://github.com/laujml/NaturallyStunning) | Full Stack | HTML · CSS · JavaScript | [▶ Ver deploy](https://laujml.github.io/NaturallyStunning/) |
-| [Planificador de Gastos](https://github.com/laujml/practica4web2) | Full Stack | PHP · SQL · JavaScript | [▶ Ver deploy](https://lighthearted-sunshine-dedd3f.netlify.app/) |
+| [Sistema de Biblioteca](https://github.com/laujml/BibliotecaEjercicioPruebas) | Backend | PHP · Laravel · Blade | Sin deploy (API) |
+| [Ecommerce de Guitarras](https://github.com/laujml/guitarsG2) | Frontend | CSS · JavaScript · HTML | (https://guitarsecommerce.netlify.app/) |
+| [Naturally Stunning](https://github.com/laujml/NaturallyStunning) | Full Stack | HTML · CSS · JavaScript | (https://laujml.github.io/NaturallyStunning/) |
+| [Planificador de Gastos](https://github.com/laujml/practica4web2) | Full Stack | CSS · HTML · JavaScript | (https://lighthearted-sunshine-dedd3f.netlify.app/) |
+| [Certificación Full Stack](https://github.com/laujml/proyecto-next) | Full Stack | Next.js · TypeScript · Vercel | (https://proyecto-next-beta.vercel.app/) |
 
 ---
 
